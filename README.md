@@ -1,7 +1,7 @@
 # New Design
 
-* Preview
-
+# Preview
+![Preview Screenshot](https://r2.fivemanage.com/9sDcJPkZq3Zy9nUxeQvk9/preview_1.png)
 # Discord ` https://discord.gg/b4s `
 # Discord ` https://discord.gg/NvbDy6j4Qd `
 
@@ -31,3 +31,4 @@
 # Discord ` https://discord.gg/b4s `
 
 # Discord ` https://discord.gg/NvbDy6j4Qd `
+
