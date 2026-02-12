@@ -1,6 +1,6 @@
 # New Design
 
-* Preview ( `https://cdn.discordapp.com/attachments/1063743188734574632/1136439381050261575/preview_1.png` )
+* Preview
 
 # Discord ` https://discord.gg/b4s `
 # Discord ` https://discord.gg/NvbDy6j4Qd `
@@ -29,4 +29,5 @@
 ```
 
 # Discord ` https://discord.gg/b4s `
+
 # Discord ` https://discord.gg/NvbDy6j4Qd `
